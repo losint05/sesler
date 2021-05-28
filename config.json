@@ -1,0 +1,17 @@
+  {
+    "DEFAULTS": {
+        "AUTHORS": ["797738104450449420"],
+        "ACTIVITY_TEXT": "Welcome To 1427",
+        "GUILD_ID": "847581879472881685",
+        "VOICE_CHANNEL": "847582352736649287",
+        "MIN_STAFF_ROLE": "847582305404190830"
+    },
+    "FILES": {
+        "WELCOME": "hosgeldin.mp3",
+        "STAFF": "yetkili.mp3"
+    },
+    "TOKEN": "bottoken"
+
+
+
+}
